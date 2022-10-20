@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import { Route, NavLink, HashRouter } from "react-router-dom";
+import { Route, NavLink, HashRouter, Routes } from "react-router-dom";
 import Home from "./Home";
 import Stuff from "./Stuff";
 import Contact from "./Contact";
@@ -21,7 +21,13 @@ class Main extends Component {
               <NavLink to="/contact">Contact</NavLink>
             </li>
           </ul>
-          <div className="content"></div>
+          <div className="content">
+            <Routes>
+              <Route exact path="/" element={<Home />} />
+              <Route path="/stuff" element={<Stuff />} />
+              <Route path="/contact" element={<Contact />} />
+            </Routes>
+          </div>
         </div>
       </HashRouter>
     );
