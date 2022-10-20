@@ -27,10 +27,10 @@ for new users of this project, you will need to install the dependencies. To do 
 
 # tasks
 
-[x] Set up our project
-[x] Displaying the Initial Frame
-[x] Creating our Content Pages
-[x] Using React Router
-[x] Fixing our Routing
-[x] Adding Some CSS
-[x] Highlighting the Active Link
+- [x] Set up our project
+- [x] Displaying the Initial Frame
+- [x] Creating our Content Pages
+- [x] Using React Router
+- [x] Fixing our Routing
+- [x] Adding Some CSS
+- [x] Highlighting the Active Link
