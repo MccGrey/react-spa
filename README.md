@@ -2,7 +2,7 @@
 
 Creating a Single-Page App in React using React Router. This project is a simple example of how to use React Router.
 
-![Screenshot](screenshot.png)
+![Screenshot](earth.png)
 
 Installation
 for new users of this project, you will need to install the dependencies. To do this, run the following command in the terminal:
