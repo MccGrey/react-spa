@@ -2,7 +2,7 @@
 
 Creating a Single-Page App in React using React Router. This project is a simple example of how to use React Router.
 
-<img src="/screenshot.png" alt="demo"/>
+<img src="/screenshot.png" alt="demo" height="80px" width= "80px"/>
 # An outlook of the finished project
 
 Installation
